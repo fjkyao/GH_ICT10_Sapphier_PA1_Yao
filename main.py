@@ -11,4 +11,5 @@ def temp_check(e):
         display(f"Your temperature is {celsius:.2f} °C. You are sick", target="output")
 
     else: 
-        display(f"Your temperature is {celsius:.2f} °C. You are fine :3", target="output")
+        display(f"Your temperature is {celsius:.2f} °C. You are fine", target="output")
+
